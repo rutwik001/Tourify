@@ -1,0 +1,21 @@
+#cluster-map {
+    width: 100%;
+    height: 500px;
+}
+
+#map {
+    width: 100%;
+    height: 300px;
+}
+
+.nav-link {
+    padding: 0.25rem 0;
+    color: rgba(255,255,255,0.5);
+    margin-left: 1rem;
+    border-bottom: 0.25rem solid transparent;
+}
+
+.nav-link:hover{
+    color: #0c89f7;
+    border-bottom-color:#0c89f7;
+}
